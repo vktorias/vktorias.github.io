@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dynamic-webpage/static/css/main.7258bcd5.css",
-    "main.js": "/dynamic-webpage/static/js/main.2fe32f15.js",
-    "static/js/453.97ce791a.chunk.js": "/dynamic-webpage/static/js/453.97ce791a.chunk.js",
-    "static/media/viktoria.png": "/dynamic-webpage/static/media/viktoria.818e783019378fc9543b.png",
-    "static/media/viktoria-kontakt.jpg": "/dynamic-webpage/static/media/viktoria-kontakt.14240434b9e82e7b9388.jpg",
-    "static/media/viktoria-cv.jpg": "/dynamic-webpage/static/media/viktoria-cv.fe28b417982d557ef5d6.jpg",
-    "static/media/spinnerLoader.gif": "/dynamic-webpage/static/media/spinnerLoader.96acc919d3876e48626b.gif",
-    "index.html": "/dynamic-webpage/index.html",
-    "main.7258bcd5.css.map": "/dynamic-webpage/static/css/main.7258bcd5.css.map",
-    "main.2fe32f15.js.map": "/dynamic-webpage/static/js/main.2fe32f15.js.map",
-    "453.97ce791a.chunk.js.map": "/dynamic-webpage/static/js/453.97ce791a.chunk.js.map"
+    "main.css": "/static/css/main.7258bcd5.css",
+    "main.js": "/static/js/main.7f8d3587.js",
+    "static/js/453.97ce791a.chunk.js": "/static/js/453.97ce791a.chunk.js",
+    "static/media/viktoria.png": "/static/media/viktoria.818e783019378fc9543b.png",
+    "static/media/viktoria-kontakt.jpg": "/static/media/viktoria-kontakt.14240434b9e82e7b9388.jpg",
+    "static/media/viktoria-cv.jpg": "/static/media/viktoria-cv.fe28b417982d557ef5d6.jpg",
+    "static/media/spinnerLoader.gif": "/static/media/spinnerLoader.96acc919d3876e48626b.gif",
+    "index.html": "/index.html",
+    "main.7258bcd5.css.map": "/static/css/main.7258bcd5.css.map",
+    "main.7f8d3587.js.map": "/static/js/main.7f8d3587.js.map",
+    "453.97ce791a.chunk.js.map": "/static/js/453.97ce791a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7258bcd5.css",
-    "static/js/main.2fe32f15.js"
+    "static/js/main.7f8d3587.js"
   ]
 }
