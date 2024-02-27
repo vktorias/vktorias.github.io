@@ -1,0 +1,32 @@
+{
+    "utbildningar": [
+      {
+        "namn": "Frisör",
+        "skola": "Stenstansgymnaset, Sundsvall",
+        "period": "2011-2014"
+      },
+      {
+        "namn": "Systemutvecklare .NET med AI-kompetens",
+        "skola": "Edugrade",
+        "period": "2023-2025"
+      }
+    ],
+    "arbetslivserfarenheter": [
+      {
+        "arbetsplats": "Circle K, Torsboda",
+        "period": "aug 2013 - apr 2017"
+      },
+      {
+        "arbetsplats": "Pressbyrån Centralstation, Sundsvall",
+        "period": "apr 2017 - nov 2018"
+      },
+      {
+        "arbetsplats": "Circle K, Alnö",
+        "period": "nov 2018 - jan 2021"
+      },
+      {
+        "arbetsplats": "Ica Nära Torpeden, Fränsta",
+        "period": "2023 - pågående"
+      }
+    ]
+}
